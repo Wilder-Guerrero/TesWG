@@ -1,0 +1,44 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: armeabi-v7a",
+    "file_": "C:\\Users\\Admin\\Desktop\\Tesis\\camera dji\\update_stream_DJI_library\\Android-FPVDemo\\FPVDemo\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1641531815
+  },
+  {
+    "level_": 0,
+    "message_": "JSON \u0027C:\\Users\\Admin\\Desktop\\Tesis\\camera dji\\update_stream_DJI_library\\Android-FPVDemo\\FPVDemo\\OpenCV\\.cxx\\Debug\\3v6p69u4\\armeabi-v7a\\android_gradle_build.json\u0027 was up-to-date",
+    "file_": "C:\\Users\\Admin\\Desktop\\Tesis\\camera dji\\update_stream_DJI_library\\Android-FPVDemo\\FPVDemo\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1584245730
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Admin\\Desktop\\Tesis\\camera dji\\update_stream_DJI_library\\Android-FPVDemo\\FPVDemo\\OpenCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2137139848
+  }
+]

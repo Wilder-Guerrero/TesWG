@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DJI FPV Demo</string>
+    <string name="action_settings">Settings</string>   
+    <string name="disconnected">Disconnected</string>
+    <string name="product_information">Product Information</string>
+    <string name="connection_loose">Status: No Product Connected</string>
+    <string name="sdk_version">DJI SDK Version: %1$s</string>
+
+
+    <string-array name="filter_options">
+        <item>Escala de Grises</item>
+        <item>Suavizado</item>
+        <item>Afilado</item>
+        <item>Bordes de Canny</item>
+        <item>Líneas de Hough</item>
+        <item>Círculos de Hough</item>
+        <item>Umbral</item>
+        <item>ORB</item>
+        <item>SIFT</item>
+        <item>SURF</item>
+        <item>Rostros</item>
+        <item>Aruco Markers</item>
+    </string-array>
+</resources>

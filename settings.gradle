@@ -1,0 +1,5 @@
+//def opencvsdk = hasProperty('opencvsdk') ? opencvsdk : 'C:/Users/Admin/Desktop/Tesis/camera dji/update_stream_DJI_library/Android-FPVDemo/FPVDemo/OpenCV'
+include ':app', ':OpenCV'
+//project(':OpenCV').projectDir = new File(opencvsdk + '/sdk')
+
+
